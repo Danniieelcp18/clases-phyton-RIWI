@@ -93,4 +93,3 @@ print (nombre)
 
 edad  = input ("dijite la edad :" )
 print ("su edad  es :" , edad)
- 
